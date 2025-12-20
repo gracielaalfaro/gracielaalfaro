@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ! I’m Grasci, a Computer Science and Honors student at the University of Miami 🌴<br>My work focuses on applying data-driven and machine learning approaches to challenges in healthcare and finance, with a special interest in projects that improve human outcomes and accessibility. I am passionate about integrating technical innovation with social impact.
+Hi ! I’m Grasci, a Computer Science and Honors student at the University of Miami 🌴<br>My current work focuses on applying data-driven and machine learning approaches to challenges in healthcare and finance, with a special interest in projects that improve human outcomes and accessibility. I am passionate about integrating technical innovation with social impact.
 
 
 ## 🌐 Socials:
