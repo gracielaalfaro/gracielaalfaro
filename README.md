@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi ! I’m Grasci, a Computer Science and Honors student at the University of Miami 🌴<br>My current work focuses on applying data-driven and machine learning approaches to healthcare and finance, with a special interest in projects that improve human outcomes and accessibility.<br> I am passionate about integrating technical innovation with social impact.
+/n
 <br>Always looking to collaborate with people who code with purpose, let's connect!
 <br> Phone Number: 323-404-6177
 <br> Email: gracielaalfaro3878@gmail.com
