@@ -6,13 +6,6 @@ Hi ! I’m Grasci, a Computer Science and Honors student at the University of Mi
 - Data analytics and bioinformatics for healthcare research 🧬  
 - Algorithm design and software development for financial systems 📊  
  <br>
- 
-### Recent Completed Projects:
-ASD blood RNA-seq ML pipeline
-<br>
-
-### Projects I am Currently Working On: 
-Investment Alightment MVP
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gracielaalfarolinked) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/5xyzpQdpt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gracielaalfaro3878@gmail.com) 
