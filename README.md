@@ -6,6 +6,7 @@ Hi ! I’m Grasci, a Computer Science and Honors student at the University of Mi
 - Data analytics and bioinformatics for healthcare research 🧬  
 - Algorithm design and software development for financial systems 📊  
  <br>
+ 
 ### Recent Completed Projects:
 ASD blood RNA-seq ML pipeline
 <br>
