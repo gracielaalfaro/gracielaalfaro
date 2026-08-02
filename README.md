@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ! I’m Grasci, a Computer Science and Honors student at the University of Miami 🌴<br>
+Hi ! I’m Grasci! <br>
 
 ### What I Work On  
 - Machine learning and AI for predictive modeling 🤖  
